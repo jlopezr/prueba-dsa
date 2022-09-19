@@ -1,0 +1,3 @@
+Hola
+
+Sou el fichero b.txt
